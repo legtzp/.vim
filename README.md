@@ -1,1 +1,1 @@
-Vim personalized configurations.
+Vim personalized configurations..
